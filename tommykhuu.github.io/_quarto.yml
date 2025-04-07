@@ -3,6 +3,7 @@ project:
   output-dir: .
 
 website:
+  google-analytics: "G-Z2W4E7B4M8"
   title: "Tommy's Blog"
   site-url: https://khuutommy.github.io
   navbar:
