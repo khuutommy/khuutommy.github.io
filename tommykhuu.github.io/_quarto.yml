@@ -3,14 +3,14 @@ project:
   output-dir: .
 
 website:
-  google-analytics: "G-Z2W4E7B4M8"
   title: "Tommy's Blog"
   site-url: https://khuutommy.github.io
+  google-analytics: "G-Z2W4E7B4M8"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/khuutommy
       - icon: twitter
         href: https://twitter.com
 
@@ -22,9 +22,6 @@ format:
     css: styles.css
 
 
-website:
-  google-analytics: "G-Z2W4E7B4M8"
-  
 
 
 
